@@ -1,0 +1,6 @@
+num = float(input('\n Entre com um numero com parte fracionaria :'))
+numi = float(int( num - 0.5))
+numfrac = float(int(num + 0.00001))
+print('f\n Parte Inteira: {(numfrac + 0.00001):.3f}')
+print('f\n Parte arrendondado: {numa } ')
+print('\n')

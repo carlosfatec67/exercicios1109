@@ -1,0 +1,6 @@
+nome = str (input('\n Digite o seu Nome:'))
+idade = int (input ('\n Digite sua idade:'))
+print('\n \n')
+print (f'\n Nome : {nome}')
+print (f'\n Idade : {idade}')
+print('\n') 
